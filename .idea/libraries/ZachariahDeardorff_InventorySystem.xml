@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ZachariahDeardorff_InventorySystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ZachariahDeardorff_InventorySystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
